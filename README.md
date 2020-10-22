@@ -13,8 +13,12 @@ There are not a lot of images of Indian currency on the internet without waterma
 ### Image Folder Structure
 ![alt text](https://github.com/nogifeet/Indian-Notes-Classification/blob/main/folder_str.PNG "Folder Structure")
 
-##### VGG-19 Model Architecture
+### VGG-19 Model Architecture
 ![alt text](https://github.com/nogifeet/Cat-Vs-Dog-Classification/blob/main/vgg19.png "VGG-19")
+
+### Training Graph
+![alt text](https://github.com/nogifeet/Indian-Notes-Classification/blob/main/indian_notes_training.PNG "Training Graph")
+
 
 ### MATLAB Tools and Apps
 1. MATLAB r2020b
